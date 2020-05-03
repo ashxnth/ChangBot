@@ -1,1 +1,2 @@
 # ChangBot
+Discord Alert Bot
