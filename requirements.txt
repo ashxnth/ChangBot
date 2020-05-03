@@ -1,0 +1,4 @@
+git+https://github.com/Rapptz/discord.py
+beautifulsoup4
+requests
+
